@@ -1,24 +1,24 @@
-# :gem: Automation Exercise - Automated GUI Testing
-## :diamond_shape_with_a_dot_inside: Automated tests using Selenium with Java for an E-commerce website
-## :earth_africa: Website home page
+#  Automation Exercise - Automated GUI Testing
+##  Automated tests using Selenium with Java for an E-commerce website
+##  Website home page
 ![homepage](https://user-images.githubusercontent.com/124753072/235929032-4471bd18-9133-46ae-84da-931f0d94bb35.jpg)
 
-## :teacher: About this project
+##  About this project
 The project was created to practice test automation skills using the Selenium (Java) framework, utilizing skills learned in a course on the Udemy platform. The website under test is a website specifically designed for automated testing. The project contains a total of 26 automated tests, created based on test cases defined by the site's developers. After running and executing the tests, using the proper command, a test report can be generated, which describes in detail the activities performed and the statuses of each test.
 
-## :wrench: Tools:
+##  Tools:
 + IntelliJ IDEA
 + Maven
 + Selenium WebDriver
 + TestNG
 + Allure Report
 
-## :art: Project Design:
+##  Project Design:
 + Page Object Model
 + Fluent Interface
 + Data-Driven approach
 + Behavior-Driven approach
-+ ### :white_check_mark: Test Case 1: Register User
++ ###  Test Case 1: Register User
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -40,7 +40,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 2: Login User with correct email and password
+###  Test Case 2: Login User with correct email and password
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -52,7 +52,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 3: Login User with incorrect email and password
+###  Test Case 3: Login User with incorrect email and password
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -64,7 +64,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 4: Logout User
+###  Test Case 4: Logout User
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -78,7 +78,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 5: Register User with existing email
+###  Test Case 5: Register User with existing email
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -90,7 +90,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 6: Contact Us Form
+###  Test Case 6: Contact Us Form
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -105,7 +105,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 7: Verify Test Cases Page
+###  Test Case 7: Verify Test Cases Page
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -114,7 +114,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 8: Verify All Products and product detail page
+###  Test Case 8: Verify All Products and product detail page
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -127,7 +127,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 9: Search Product
+###  Test Case 9: Search Product
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -139,7 +139,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 10: Verify Subscription in home page
+###  Test Case 10: Verify Subscription in home page
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -150,7 +150,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 11: Verify Subscription in Cart page
+###  Test Case 11: Verify Subscription in Cart page
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -161,7 +161,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 12: Add Products in Cart
+###  Test Case 12: Add Products in Cart
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -175,7 +175,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 13: Verify Product quantity in Cart
+###  Test Case 13: Verify Product quantity in Cart
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -188,7 +188,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 14: Place Order: Register while Checkout
+###  Test Case 14: Place Order: Register while Checkout
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -212,7 +212,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 15: Place Order: Register before Checkout
+###  Test Case 15: Place Order: Register before Checkout
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -234,7 +234,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 16: Place Order: Login before Checkout
+###  Test Case 16: Place Order: Login before Checkout
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -253,7 +253,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 17: Remove Products From Cart
+###  Test Case 17: Remove Products From Cart
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -265,7 +265,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 18: View Category Products
+###  Test Case 18: View Category Products
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that categories are visible on left side bar </ol>
@@ -277,7 +277,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 19: View & Cart Brand Products
+###  Test Case 19: View & Cart Brand Products
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Click on 'Products' button </ol>
@@ -289,7 +289,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 20: Search Products and Verify Cart After Login
+###  Test Case 20: Search Products and Verify Cart After Login
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Click on 'Products' button </ol> 
@@ -307,7 +307,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 21: Add review on product
+###  Test Case 21: Add review on product
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Click on 'Products' button </ol>
@@ -320,7 +320,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 22: Add to cart from Recommended items
+###  Test Case 22: Add to cart from Recommended items
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Scroll to bottom of page </ol>
@@ -331,7 +331,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 23: Verify address details in checkout page
+###  Test Case 23: Verify address details in checkout page
 <ol> 1. Launch browser </ol>
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfully </ol>
@@ -349,7 +349,7 @@ The project was created to practice test automation skills using the Selenium (J
 
 ---
 
-### :white_check_mark: Test Case 24: Download Invoice after purchase order
+###  Test Case 24: Download Invoice after purchase order
 <ol> 1. Launch browser </ol> 
 <ol> 2. Navigate to url 'http://automationexercise.com' </ol>
 <ol> 3. Verify that home page is visible successfull </ol>
